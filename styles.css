@@ -1,0 +1,12 @@
+body {
+    margin: 20% auto;
+    width: 50%;
+    height: 75%;
+  }
+
+  div {background-color: yellow;
+  border: 2pt solid orange;}
+
+  .numeros {background-color: pink;
+    border: 2pt solid blueviolet;
+  display: flex;}
